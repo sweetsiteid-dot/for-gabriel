@@ -159,7 +159,7 @@ body::before{
 
 .slides{
     width:320px;
-    aspect-ratio:1/1;
+    height:427px;
     margin:auto;
     position:relative;
 }
